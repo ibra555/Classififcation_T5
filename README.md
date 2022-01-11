@@ -1,6 +1,6 @@
-Listing of attributes:
+# Listing of attributes:
 
-50K, <=50K.
+income: 50K, <=50K.
 
 age: continuous.<br>
 <br>
