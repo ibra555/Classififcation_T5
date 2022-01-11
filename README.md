@@ -1,4 +1,8 @@
-# Listing of attributes:
+The dataset can be found & downloaded from the following link:<br>
+https://www.kaggle.com/lodetomasi1995/income-classification<br>
+
+
+## Listing of attributes:
 
 income: 50K, <=50K.
 
